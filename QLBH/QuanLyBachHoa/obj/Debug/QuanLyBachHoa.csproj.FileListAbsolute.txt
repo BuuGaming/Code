@@ -1,0 +1,13 @@
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\bin\Debug\QuanLyBachHoa.exe.config
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\bin\Debug\QuanLyBachHoa.exe
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\bin\Debug\QuanLyBachHoa.pdb
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.csproj.AssemblyReference.cache
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.LoginForm.resources
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.MainForm.resources
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.Properties.Resources.resources
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.csproj.GenerateResource.cache
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.csproj.CoreCompileInputs.cache
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.exe
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.pdb
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.FuntionsForms.HomeChild.resources
+C:\BaoCao\QuanLyBachHoa\QuanLyBachHoa\obj\Debug\QuanLyBachHoa.FuntionsForms.ProductChild.resources
